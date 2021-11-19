@@ -1,4 +1,16 @@
-# my-project
+# Vue.js
+ToDoApp
+
+## description
+The project presents todoapp created in Vue.js 
+
+### technologies
++ Vue.js
++ Vuex
++ JavaScript
++ HTML
+
+
 
 ## Project setup
 ```
